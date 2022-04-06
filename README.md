@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Szymon
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning - python
